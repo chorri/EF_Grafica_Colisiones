@@ -243,10 +243,6 @@ i32 main() {
 //		delete var;
 //	}
 
-	delete asteroidShader;
-	delete[] metioritos;
-	delete roca;
-
 	return 0;
 }
 
